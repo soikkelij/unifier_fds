@@ -1,0 +1,7 @@
+A
+750 version
+t_bottom	t_top		v_min		v_max
+4			504			0			200	// comment: airspeed tape range 1000 kt
+
+
+Make your tapes any size you like, providing coordinates above and min and max values!
