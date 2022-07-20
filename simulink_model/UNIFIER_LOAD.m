@@ -18,8 +18,6 @@ load("dp_WING.mat");
 load("dp_FUSE_FIN.mat");
 load("dp_HTU.mat")
 load("dp_DEP.mat")
-load("dp_LIMITS.mat")
-load("dp_PREF.mat")
 
 % Mass case NO PASSENGERS, FULL FUEL: (aft C.G.)
 m = 5423;
