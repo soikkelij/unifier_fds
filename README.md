@@ -2,7 +2,7 @@
 
 ## UNIFIER19 C7A-HARW FLIGHT DYNAMICS SIMULATOR
 
-This repository contains the UNIFIER19 C7A-HARW aircraft Simulink model and XPlane-11 model. The simulator was developed to evaluate flight dynamics and control laws for distributed electric propulsion aircraft. 
+This repository contains the UNIFIER19 C7A-HARW aircraft Simulink model and X-Plane 11 model. The simulator was developed to evaluate flight dynamics and control laws for distributed electric propulsion aircraft. 
 
 Some highlights of the simulator:
 - Nonlinear 6 DOF simulator
@@ -17,14 +17,14 @@ As a part of the UNIFIER19 project, we developed flight control laws based on no
 
 >**With this model, we invite you to design your control laws! We hope this simulator will serve as an easy go-to simulator for DEP vehicles! Looking forward to your results!**
 
-Please refer to the documentation for a detailed discussion of the model. There is a short walkthrough video on YouTube on how to get started.
+[**Here is a YouTube video on how to get started.**](https://youtu.be/k61xMRbFE0U)
+
+---
 
 Additional information about the project can be found in: <br>
 www.unifier19.eu<br>
 https://www.unifier19.eu/wp-content/uploads/2021/07/UNIFIER-19-Brochure-rev04.pdf<br>
 https://www.unifier19.eu/wp-content/uploads/2021/07/D2.2_Final_concurrent_design_report_Open.pdf<br>
-
----
 
 The project has received funding from the CleanSky2 Joint Undertaking (JU) under grant agreement NO 864901. The JU receives support from the European Unions Horizon 2020 research and innovation programme and the Clean Sky 2 JU members other than the Union.
 
