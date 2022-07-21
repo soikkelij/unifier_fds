@@ -20,6 +20,8 @@ As a part of the UNIFIER19 project, we developed flight control laws based on no
 
 [**Here is a YouTube video on how to get started.**](https://youtu.be/k61xMRbFE0U)
 
+PS: For the aviation enthusiast we have a standalone X-plane 11 model just for the fun of flying! (under: xplane11_model/standalone)
+
 ---
 
 Additional information about the project can be found in: <br>
