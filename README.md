@@ -12,6 +12,7 @@ Some highlights of the simulator:
 - Contains all the I/O interfaces: joystick interface and X-plane 11 interface
 - Comes with high fidelity X-plane 11 model for visualization or real-time simulation
 - Fully supports Simulink Rapid Accelerator mode for smooth real-time simulations
+- Comes with an on-board vehicle model (no integrators) ready for your control law use!
 
 As a part of the UNIFIER19 project, we developed flight control laws based on nonlinear dynamic inversion. Paper is to be published on the findings.
 
