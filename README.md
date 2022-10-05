@@ -22,6 +22,9 @@ As a part of the UNIFIER19 project, we developed flight control laws based on no
 
 PS: For the aviation enthusiast we have a standalone X-plane 11 model just for the fun of flying! (under: xplane11_model/standalone)
 
+CHANGE LOG:
+- 05.10.2022 Added sensor models and delays - post-project work by J. Soikkeli
+
 ---
 
 Additional information about the project can be found in: <br>
