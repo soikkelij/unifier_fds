@@ -14,9 +14,10 @@ Some highlights of the simulator:
 - Fully supports Simulink Rapid Accelerator mode for smooth real-time simulations
 - Comes with an on-board vehicle model (no integrators) ready for your control law use!
 
-As a part of the UNIFIER19 project, we developed flight control laws based on nonlinear dynamic inversion. Paper is to be published on the findings.
+As a part of the UNIFIER19 project, we developed flight control laws for the C7A-HARW vehicle based on nonlinear dynamic inversion:
+[**Cascaded nonlinear dynamic inversion applied to a fixed-wing distributed electric propulsion aircraft**](https://arc.aiaa.org/doi/10.2514/6.2023-4048)
 
->**With this model, we invite you to design your control laws! We hope this simulator will serve as an easy go-to simulator for DEP vehicles! Looking forward to your results!**
+>**With this model, we invite you to design your own control laws! We hope this simulator will serve as an easy go-to simulator for DEP vehicles! Looking forward to your results!**
 
 [**Here is a YouTube video on how to get started.**](https://youtu.be/k61xMRbFE0U)
 
@@ -24,6 +25,7 @@ PS: For the aviation enthusiast we have a standalone X-plane 11 model just for t
 
 CHANGE LOG:
 - 05.10.2022 Added sensor models and delays - post-project work by J. Soikkeli
+- 06.10.2023 Added link to the published paper.
 
 ---
 
