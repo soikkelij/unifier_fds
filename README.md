@@ -23,9 +23,8 @@ As a part of the UNIFIER19 project, we developed flight control laws for the C7A
 
 PS: For the aviation enthusiast we have a standalone X-plane 11 model just for the fun of flying! (under: xplane11_model/standalone)
 
-CHANGE LOG:
-- 05.10.2022 Added sensor models and delays - post-project work by J. Soikkeli
-- 06.10.2023 Added link to the published paper.
+CORRESPONDING AUTHOR:
+johannes.soikkeli@pipistrel-aircraft.com
 
 ---
 
